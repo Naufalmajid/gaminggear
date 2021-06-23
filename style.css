@@ -1,0 +1,42 @@
+
+.seksyen1{
+    background-color:#b4a5a5;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-Pey{
+    color: rgba(116, 70, 2, 0.945);
+}
+
+.tulisanPutih{
+    color: #c29090(109, 10, 175);
+}
+
+/* seksyen 2 */
+
+.seksyen2{
+    background-color: #687980;
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+
+
+
+.icon{
+    color: #ebf3bf;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 4.5%;
+}
+
+.footer{
+    text-align: center;
+    font-size: xx-large;
+    COLOR: #687980;
+}
